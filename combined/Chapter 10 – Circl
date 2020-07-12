@@ -1,0 +1,232 @@
+
+Q.1: How many tangents can be drawn from the external point to a circle? 
+Answer: Two tangents can be drawn from the external point to a circle.
+
+Q.2:Given: A triangle OAB which is an isosceles triangle and AB is tangent to the circle with center O. Find the measure of ∠OAB.
+Answer: The measure of ∠OAB in the given isosceles triangle OAB will be 45 degrees.
+
+Q.3: What should be the angle between the two tangents which is drawn at the end of two radii and are inclined at an angle of 45 degrees?
+Answer: The angle between them shall be: 135 degrees.
+
+Q.4: Given a right triangle PQR which is right-angled at q. QR = 12 cm, PQ = 5 cm. The radius of the circle which is inscribed in triangle PQR will be?
+Answer: The radius of the circle will be 2 cm.
+
+Q.5: Define Tangent and Secant?
+Answer: A tangent is a line which meets the circle only in one point.
+A secant is a line which meets the circle at two points while intersecting it. These two points are always distinct.
+
+Q.6: What is circle?
+Answer: If we collect all the points given on a plane and are at a constant distance, we will get a circle. The constant distance will be called a radius and the fixed point will be the centre of the circle.
+
+Q.1: From a point Q, the length of the tangent to a circle is 24 cm and the distance of Q from the centre is 25 cm. The radius of the circle is
+(A) 7 cm (B) 12 cm
+(C) 15 cm (D) 24.5 cm
+Solution: 
+First, draw a perpendicular from the centre O of the triangle to a point P on the circle which is touching the tangent. This line will be perpendicular to the tangent of the circle.
+
+So, OP is perpendicular to PQ i.e. OP ⊥ PQ
+From the above figure, it is also seen that △OPQ is a right-angled triangle.
+It is given that
+OQ = 25 cm and PQ = 24 cm
+By using Pythagorean theorem in △OPQ,
+OQ2 = OP2 + PQ2
+=> (25)2 = OP2 + (24)2
+=> OP2 = 625 – 576
+=> OP2 = 49
+=> OP = 7 cm
+So, option A i.e. 7 cm is the radius of the given circle.
+
+Q. 2: Prove that the tangents drawn at the ends of a diameter of a circle are parallel.
+Solution:
+First, draw a circle and connect two points A and B such that AB becomes the diameter of the circle. Now, draw two tangents PQ and RS at points A and B respectively.
+
+Now, both radii i.e. AO and OP are perpendicular to the tangents.
+So, OB is perpendicular to RS and OA perpendicular to PQ
+So, ∠OAP = ∠OAQ = ∠OBR = ∠OBS = 90°
+From the above figure, angles OBR and OAQ are alternate interior angles.
+Also, ∠OBR = ∠OAQ and ∠OBS = ∠OAP (Since they are also alternate interior angles)
+So, it can be said that line PQ and the line RS will be parallel to each other. (Hence Proved).
+
+Q. 3: A quadrilateral ABCD is drawn to circumscribe a circle as shown in the figure. Prove that AB + CD = AD + BC
+
+Solution:
+From this figure,
+(i) DR = DS
+(ii) BP = BQ
+(iii) AP = AS
+(iv) CR = CQ
+Since they are tangents on the circle from points D, B, A, and C respectively.
+Now, adding the LHS and RHS of the above equations we get,
+DR + BP + AP+ CR = DS + BQ + AS + CQ
+By rearranging them we get,
+(DR + CR) + (BP + AP) = (CQ + BQ) + (DS + AS)
+By simplifying,
+AD + BC = CD + AB
+
+Q. 4: Two concentric circles are of radii 5 cm and 3 cm. Find the length of the chord of the larger circle which touches the smaller circle.
+Solution:
+Draw two concentric circles with the centre O. Now, draw a chord AB in the larger circle which touches the smaller circle at a point P as shown in the figure below.
+
+From the above diagram, AB is tangent to the smaller circle to point P.
+∴ OP ⊥ AB
+Using Pythagoras theorem in triangle OPA,
+OA2 = AP2 + OP2
+=> 52 = AP2 + 32
+=> AP2 = 25 – 9 = 16
+=> AP = 4
+OP ⊥ AB
+Since the perpendicular from the centre of the circle bisects the chord, AP will be equal to PB
+So, AB = 2AP = 2 × 4 = 8 cm
+Hence, the length of the chord of the larger circle is 8 cm.
+
+Q. 5: Let s denote the semi-perimeter of a triangle ABC in which BC = a, CA = b, AB = c. If a circle touches the sides BC, CA, AB at D, E, F, respectively, prove that BD = s – b.
+Solution:
+
+According to the question,
+A triangle ABC with BC = a , CA = b and AB = c . Also, a circle is inscribed which touches the sides BC, CA and AB at D, E and F respectively and s is semi- perimeter of the triangle
+To Prove: BD = s – b
+Proof:
+According to the question,
+We have,
+Semi Perimeter = s
+Perimeter = 2s
+
+2s = AB + BC + AC [1]
+As we know,
+Tangents drawn from an external point to a circle are equal
+So we have
+AF = AE [2] [Tangents from point A]
+BF = BD [3] [Tangents From point B]
+CD = CE [4] [Tangents From point C]
+Adding [2] [3] and [4],
+AF + BF + CD = AE + BD + CE
+AB + CD = AC + BD
+Adding BD both side,
+AB + CD + BD = AC + BD + BD
+AB + BC – AC = 2BD
+AB + BC + AC – AC – AC = 2BD
+2s – 2AC = 2BD [From 1]
+2BD = 2s – 2b [as AC = b]
+BD = s – b
+Hence proved.
+Practice Questions For Class 10 Maths Chapter 10 Circles
+
+How many tangents can a circle have?
+Prove that the parallelogram circumscribing a circle is a rhombus.
+In a right triangle ABC in which ∠B = 90°, a circle is drawn with AB as diameter intersecting the hypotenuse AC and P. Prove that the tangent to the circle at P bisects BC.
+If an isosceles triangle ABC, in which AB = AC = 6 cm, is inscribed in a circle of radius 9 cm, find the area of the triangle.
+
+
+
+
+As we know,
+Tangents drawn from an external point to a circle are equal
+So we have
+AF = AE [2] [Tangents from point A]
+BF = BD [3] [Tangents From point B]
+CD = CE [4] [Tangents From point C]
+Adding [2] [3] and [4],
+AF + BF + CD = AE + BD + CE
+AB + CD = AC + BD
+Adding BD both side,
+AB + CD + BD = AC + BD + BD
+AB + BC – AC = 2BD
+AB + BC + AC – AC – AC = 2BD
+2s – 2AC = 2BD [From 1]
+2BD = 2s – 2b [as AC = b]
+BD = s – b
+Hence proved.
+Practice Questions For Class 10 Maths Chapter 10 Circles
+
+How many tangents can a circle have?
+Prove that the parallelogram circumscribing a circle is a rhombus.
+In a right triangle ABC in which ∠B = 90°, a circle is drawn with AB as diameter intersecting the hypotenuse AC and P. Prove that the tangent to the circle at P bisects BC.
+If an isosceles triangle ABC, in which AB = AC = 6 cm, is inscribed in a circle of radius 9 cm, find the area of the triangle.
+
+
+
+
+BF = BD [3] [Tangents From point B]
+CD = CE [4] [Tangents From point C]
+Adding [2] [3] and [4],
+AF + BF + CD = AE + BD + CE
+AB + CD = AC + BD
+Adding BD both side,
+AB + CD + BD = AC + BD + BD
+AB + BC – AC = 2BD
+AB + BC + AC – AC – AC = 2BD
+2s – 2AC = 2BD [From 1]
+2BD = 2s – 2b [as AC = b]
+BD = s – b
+Hence proved.
+Practice Questions For Class 10 Maths Chapter 10 Circles
+
+How many tangents can a circle have?
+Prove that the parallelogram circumscribing a circle is a rhombus.
+In a right triangle ABC in which ∠B = 90°, a circle is drawn with AB as diameter intersecting the hypotenuse AC and P. Prove that the tangent to the circle at P bisects BC.
+If an isosceles triangle ABC, in which AB = AC = 6 cm, is inscribed in a circle of radius 9 cm, find the area of the triangle.
+
+
+
+
+CD = CE [4] [Tangents From point C]
+Adding [2] [3] and [4],
+AF + BF + CD = AE + BD + CE
+AB + CD = AC + BD
+Adding BD both side,
+AB + CD + BD = AC + BD + BD
+AB + BC – AC = 2BD
+AB + BC + AC – AC – AC = 2BD
+2s – 2AC = 2BD [From 1]
+2BD = 2s – 2b [as AC = b]
+BD = s – b
+Hence proved.
+Practice Questions For Class 10 Maths Chapter 10 Circles
+
+How many tangents can a circle have?
+Prove that the parallelogram circumscribing a circle is a rhombus.
+In a right triangle ABC in which ∠B = 90°, a circle is drawn with AB as diameter intersecting the hypotenuse AC and P. Prove that the tangent to the circle at P bisects BC.
+If an isosceles triangle ABC, in which AB = AC = 6 cm, is inscribed in a circle of radius 9 cm, find the area of the triangle.
+
+
+
+
+Adding [2] [3] and [4],
+AF + BF + CD = AE + BD + CE
+AB + CD = AC + BD
+Adding BD both side,
+AB + CD + BD = AC + BD + BD
+AB + BC – AC = 2BD
+AB + BC + AC – AC – AC = 2BD
+
+2s – 2AC = 2BD [From 1]
+2BD = 2s – 2b [as AC = b]
+BD = s – b
+Hence proved.
+Practice Questions For Class 10 Maths Chapter 10 Circles
+
+How many tangents can a circle have?
+Prove that the parallelogram circumscribing a circle is a rhombus.
+In a right triangle ABC in which ∠B = 90°, a circle is drawn with AB as diameter intersecting the hypotenuse AC and P. Prove that the tangent to the circle at P bisects BC.
+If an isosceles triangle ABC, in which AB = AC = 6 cm, is inscribed in a circle of radius 9 cm, find the area of the triangle.
+
+
+
+
+
+2BD = 2s – 2b [as AC = b]
+BD = s – b
+Hence proved.
+Practice Questions For Class 10 Maths Chapter 10 Circles
+
+How many tangents can a circle have?
+Prove that the parallelogram circumscribing a circle is a rhombus.
+In a right triangle ABC in which ∠B = 90°, a circle is drawn with AB as diameter intersecting the hypotenuse AC and P. Prove that the tangent to the circle at P bisects BC.
+If an isosceles triangle ABC, in which AB = AC = 6 cm, is inscribed in a circle of radius 9 cm, find the area of the triangle.
+
+
+
+
+BD = s – b
+Hence proved.
+

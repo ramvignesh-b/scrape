@@ -1,0 +1,173 @@
+
+Q. 1: Two dice are thrown at the same time. Find the probability of getting
+(i) the same number on both dice.
+(ii) different numbers on both dice.
+Solution:
+Given that, Two dice are thrown at the same time.
+So, the total number of possible outcomes n(S) = 62 = 36
+(i) Getting the same number on both dice:
+Let A be the event of getting the same number on both dice.
+Possible outcomes are (1,1), (2,2), (3, 3), (4, 4), (5, 5) and (6, 6).
+Number of possible outcomes = n(A) = 6
+Hence, the required probability =P(A) = n(A)/n(S)
+= 6/36
+= 1/6
+(ii) Getting a different number on both dice.
+Let B be the event of getting a different number on both dice.
+Number of possible outcomes n(B) = 36 – Number of possible outcomes for the same number on both dice
+= 36 – 6 = 30
+Hence, the required probability = P(B) = n(B)/n(S)
+= 30/36
+= 5/6
+
+Q. 2: A bag contains a red ball, a blue ball and a yellow ball, all the balls being
+of the same size. Kritika takes out a ball from the bag without looking into it. What is
+the probability that she takes out the
+(i) yellow ball? 
+(ii) red ball? 
+(iii) blue ball?
+Solution:
+Kritika takes out a ball from the bag without looking into it. So, it is equally likely that she takes out any one of them from the bag.
+Let Y be the event ‘the ball taken out is yellow’, B be the event ‘the ball taken
+out is blue’, and R be the event ‘the ball taken out is red’.
+The number of possible outcomes = Number of balls in the bag = n(S) = 3.
+(i) The number of outcomes favourable to the event Y = n(Y) = 1.
+So, P(Y) = n(Y)/n(S) =1/3
+Similarly, (ii) P(R) = 1/3
+and (iii) P(B) = ⅓
+
+Q.3: One card is drawn from a well-shuffled deck of 52 cards. Calculate the probability that the card will
+(i) be an ace,
+(ii) not be an ace.
+Solution:
+Well-shuffling ensures equally likely outcomes.
+(i) Card drawn is an ace
+There are 4 aces in a deck.
+Let E be the event ‘the card is an ace’.
+The number of outcomes favourable to E = n(E) = 4
+The number of possible outcomes = Total number of cards = n(S) = 52 ()
+Therefore, P(E) = n(E)/n(S) = 4/52 = 1/13
+(ii) Card drawn is not an ace
+Let F be the event ‘card drawn is not an ace’.
+The number of outcomes favourable to the event F = n(F) = 52 – 4 = 48
+Therefore, P(F) = n(F)/n(S) = 48/52 = 12/13
+
+Q.4: Two dice are numbered 1, 2, 3, 4, 5, 6 and 1, 1, 2, 2, 3, 3, respectively. They are thrown and the sum of the numbers on them is noted. Find the probability of getting each sum from 2 to 9 separately.
+Solution:
+Number of total outcome = n(S) = 36
+(i) Let E1 be the event ‘getting sum 2’
+Favourable outcomes for the event E1 = {(1,1),(1,1)}
+n(E1) = 2
+P(E1) = n(E1)/n(S) = 2/36 = 1/18
+(ii) Let E2 be the event ‘getting sum 3’
+Favourable outcomes for the event E2 = {(1,2),(1,2),(2,1),(2,1)}
+n(E2) = 4
+P(E2) = n(E2)/n(S) = 4/36 = 1/9
+(iii) Let E3 be the event ‘getting sum 4’
+Favourable outcomes for the event E3 = {(2,2)(2,2),(3,1),(3,1),(1,3),(1,3)}
+n(E3) = 6
+P(E3) = n(E3)/n(S) = 6/36 = 1/6
+(iv) Let E4 be the event ‘getting sum 5’
+Favourable outcomes for the event E4 = {(2,3),(2,3),(4,1),(4,1),(3,2),(3,2)}
+n(E4) = 6
+P(E4) = n(E4)/n(S) = 6/36 = 1/6
+(v) Let E5 be the event ‘getting sum 6’
+Favourable outcomes for the event E5 = {(3,3),(3,3),(4,2),(4,2),(5,1),(5,1)}
+n(E5) = 6
+P(E5) = n(E5)/n(S) = 6/36 = 1/6
+(vi) Let E6 be the event ‘getting sum 7’
+Favourable outcomes for the event E6 = {(4,3),(4,3),(5,2),(5,2),(6,1),(6,1)}
+n(E6) = 6
+P(E6) = n(E6)/n(S) = 6/36 = 1/6
+(vii) Let E7 be the event ‘getting sum 8’
+Favourable outcomes for the event E7 = {(5,3),(5,3),(6,2),(6,2)}
+n(E7) = 4
+P(E7) = n(E7)/n(S) = 4/36 = 1/9
+(viii) Let E8 be the event ‘getting sum 9’
+Favourable outcomes for the event E8 = {(6,3),(6,3)}
+n(E8) = 2
+P(E8) = n(E8)/n(S) = 2/36 = 1/18
+
+Q.5: A coin is tossed two times. Find the probability of getting at most one head.
+Solution:
+When two coins are tossed, the total no of outcomes = 22 = 4
+i.e. (H, H) (H, T), (T, H), (T, T)
+Where,
+H represents head
+T represents the tail
+We need at most one head, that means we need one head only otherwise no head.
+Possible outcomes = (H, T), (T, H), (T, T)
+Number of possible outcomes = 3
+Hence, the required probability = ¾
+
+Q.6: An integer is chosen between 0 and 100. What is the probability that it is
+(i) divisible by 7? 
+(ii) not divisible by 7?
+Solution: 
+Number of integers between 0 and 100 = n(S) = 99
+(i) Let E be the event ‘integer divisible by 7’
+Favourable outcomes to the event E = 7, 14, 21,…., 98
+Number of favourable outcomes = n(E) = 14
+Probability = P(E) = n(E)/n(S) = 14/99
+(ii) Let F be the event ‘integer not divisible by 7’
+Number of favourable outcomes to the event F = 99 – Number of integers divisible by 7
+= 99-14 = 85
+Hence, the required probability = P(F) = n(F)/n(S) = 85/99
+
+Q. 7: If P(E) = 0.05, what is the probability of ‘not E’?
+Solution:
+We know that,
+P(E) + P(not E) = 1
+It is given that, P(E) = 0.05
+So, P(not E) = 1 – P(E)
+P(not E) = 1 – 0.05
+∴ P(not E) = 0.95
+
+Q. 8: 12 defective pens are accidentally mixed with 132 good ones. It is not possible to just
+look at a pen and tell whether or not it is defective. One pen is taken out at random from
+this lot. Determine the probability that the pen is taken out is a good one.
+Solution: 
+Numbers of pens = Numbers of defective pens + Numbers of good pens
+∴ Total number of pens = 132 + 12 = 144 pens
+P(E) = (Number of favourable outcomes) / (Total number of outcomes)
+P(picking a good pen) = 132/144 = 11/12 = 0.916
+
+Q. 9: A die is thrown twice. What is the probability that
+(i) 5 will not come up either time? (ii) 5 will come up at least once?
+Solution:
+Outcomes are:
+(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6)
+(2, 1), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6)
+(3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6)
+(4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6)
+(5, 1), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6)
+(6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)
+So, the total number of outcome = 6 × 6 = 36
+(i) Method 1:
+Consider the following events.
+A = 5 comes in first throw,
+B = 5 comes in second throw
+P(A) = 6/36,
+P(B) = 6/36 and
+P(not B) = 5/6
+So, P(notA) = 1 – 6/36 = 5/6
+∴ The required probability = 5/6 × 5/6 = 25/36
+Method 2:
+Let E be the event in which 5 does not come up either time.
+So, the favourable outcomes are [36 – (5 + 6)] = 25
+∴ P(E) = 25/36
+(ii) Number of events when 5 comes at least once = 11 (5 + 6)
+∴ The required probability = 11/36
+
+Q. 10: The probability that a non-leap year selected at random will contain 53 Sundays is
+Solution: 
+Correct option: (A)
+A non-leap year has 365 days.
+
+365 days = 52 weeks + 1 day
+Since 52 weeks = 52 x 7 = 364 days
+Hence there will be 52 Sundays in a year.
+This 1 day can be Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday.
+Out of these total 7 outcomes, the number of favourable outcomes is 1.
+Hence, the probability of getting 53 Sundays = 1 / 7
+

@@ -1,0 +1,155 @@
+
+1. Find the value of “p” from the polynomial x2 + 3x + p, if one of the zeroes of the polynomial is 2.
+Solution:
+As 2 is the zero of the polynomial,
+x2 + 3x + p, for x = 2
+Now, put x = 2
+
+22 + 3(2) + p = 0
+=> 4 + 6 + p = 0
+Or, p = -10
+
+2. Does the polynomial a4 + 4a2 + 5 = 0 have real zeroes?
+Solution:
+In the aforementioned equation, let a2 = x.
+Now, the equation becomes,
+x2 + 4x2 + 5 = 0
+Here, b2 – 4ac will be = 42 – 4(1)(5) = 16 – 20 = -4
+So, D = b2 – 4ac < 0
+As the discriminant (D) is negative, the given polynomial does not have real roots or zeroes.
+
+3. Compute the zeroes of the polynomial 4x2 – 4x – 8 = 0. Also, establish a relationship between the zeroes and coefficients.
+Solution:
+Factorise the equation 4x2 – 4x – 8 = 0
+
+4x2 – 4x – 8 = 0
+
+4x2 – 2x – 2x + 1 = 0
+
+2x(2x – 1) – 1(2x -1) = 0
+(2x – 1) (2x – 1) = 0
+So, the roots of 4x2 – 4x – 8 are (½ and ½)
+Relation between the sum of zeroes and coefficients:
+½ + ½ = 1 = -4/-4 i.e. (- coefficient of x/ coefficient of x2)
+Relation between the product of zeroes and coefficients:
+½ × ½ = ¼ i.e (constant/coefficient of x2)
+
+4. Find the quadratic polynomial if its zeroes are 0, √5.
+Solution:
+A quadratic polynomial can be written using the sum and product of its zeroes as:
+x2 +(α + β)x + αβ = 0
+Where α and β are the roots of the polynomial equation.
+Here, α = 0 and β = √5
+So, the equation will be:
+x2 +(0 + √5)x + 0(√5) = 0
+Or, x2 + √5x = 0
+
+5. Find the value of “x” in the equation 2a2 + 2xa + 5x + 10 if (a + x) is one of its factors.
+Solution:
+Say, f(a) = 2a2 + 2xa + 5x + 10
+Since, (a + x) is a factor of 2a2 + 2xa + 5x + 10, f(-x) = 0
+So, f(-x) = 2x2 – 2x2 – 5x + 10 = 0
+Or, -5x + 10 = 0
+Thus, x = 2
+
+6. How many zeros does the polynomial (x – 3)2 – 4 can have? Also, find its zeroes.
+Solution:
+Given equation is (x – 3)2 – 4
+Now, expand this equation.
+=> x2 + 9 – 6x – 4
+= x2 – 6x + 5
+As the equation has a degree of 2, the number of zeroes it will have is 2.
+Now, solve x2 – 6x + 5 = 0 to get the roots.
+So, x2 – x – 5x + 5 = 0
+=> x(x-1) -5(x-1) = 0
+=> (x-1)(x-5)
+So, the roots are 1 and 5.
+
+7. α and β are zeroes of the quadratic polynomial x2 – 6x + y. Find the value of ‘y’ if 3α + 2β = 20.
+Solution:
+Let, f(x) = x² – 6 x + a
+From the question,
+
+3α + 2β = 20
+From f(x),
+α + β = 6———————(ii)
+And,
+αβ = y———————(iii)
+Multiply equation (ii) by 2. Then, subtract the whole equation from equation (i),
+=> α = 20 – 12 = 8
+Now, substitute this value in equation (ii),
+=> β = 6-8 = -2
+put the value of α and β in equation (iii) to get the value of y, such as;
+y = αβ = -16
+
+8.  If the zeroes of the polynomial x3 – 3x2 + x + 1 are a – b, a, a + b, then find the value of a and b.
+Solution:
+p(x) = x3 – 3x2 + x + 1
+Here, zeroes are given are a – b, a, and a + b
+Now, compare the given polynomial equation with general expression.
+px3 + qx2 + rx + s = x3 – 3x2 + x + 1
+Here, p = 1, q = -3, r = 1 and s = 1
+For sum of zeroes:
+Sum of zeroes will be = a – b + a + a + b
+-q/p = 3a
+Substitute the values q and p.
+-(-3)/1 = 3a
+Or, a = 1
+So, the zeroes are 1-b, 1, 1+b.
+For product of zeroes:
+Product of zeroes = 1(1-b)(1+b)
+-s/p=1-𝑏2
+=> -1/1=1-𝑏2
+Or, 𝑏2 = 1 + 1 =2
+So, b = √2
+Thus, 1-√2, 1, 1+√2 are the zeroes of equation 𝑥3 − 3𝑥2 + 𝑥 + 1.
+
+9. Find a quadratic polynomial each with the given numbers as the sum and product of its zeroes respectively.
+(i) 1/4, -1
+(ii) 1,1
+(iii) 4, 1
+Solution:
+(i) From the formulas of sum and product of zeroes, we know,
+Sum of zeroes = α + β
+Product of zeroes = α β
+Given,
+Sum of zeroes = 1/4
+Product of zeroes = -1
+Therefore, if α and β are zeroes of any quadratic polynomial, then the equation can be written as:-
+x2 – (α+β)x +αβ = 0
+x2 – (1/4)x +(-1) = 0
+
+4x2 – x – 4 = 0
+Thus, 4x2 – x – 4 is the quadratic polynomial.
+(ii) Given,
+Sum of zeroes = 1 = α+β
+Product of zeroes = 1 = αβ
+Therefore, if α and β are zeroes of any quadratic polynomial, then the equation can be written as:-
+x2 – (α+β)x +αβ = 0
+x2 – x + 1 = 0
+Thus, x2 – x + 1 is the quadratic polynomial.
+(iii) Given,
+Sum of zeroes, α + β = 4
+Product of zeroes, α β = 1
+Therefore, if α and β are zeroes of any quadratic polynomial, then the equation can be written as:-
+x2 – (α+β)x +αβ = 0
+x2 – 4x +1 = 0
+Thus, x2 – 4x +1 is the quadratic polynomial.
+
+10. Obtain all other zeroes of 3x4+6x3-2x2-10x-5, if two of its zeroes are √(5/3) and-√(5/3).
+Solutions: Since this is a polynomial equation of degree 4, hence there will be total 4 roots.
+√(5/3) and-√(5/3) are zeroes of polynomial f(x).
+∴ [x-√(5/3)] [x+√(5/3)] = x2-(5/3) = 0
+(3x2−5)=0, is a factor of given polynomial f(x).
+Now, if we divide f(x) by (3x2−5) the quotient thus obtained will also be a factor of f(x) and the remainder will be 0.
+
+Therefore, 3x4+6x3-2x2-10x-5 = (3x2 – 5) (x2 + 2x +1)
+Now, on further factorizing (x2 + 2x +1) we get,
+x2 + 2x +1 = x2 + x + x +1 = 0
+x(x + 1) + 1(x+1) = 0
+(x+1) (x+1) = 0
+So, its zeroes are given by: x= −1 and x = −1.
+Therefore, all four zeroes of given polynomial equation are:
+√(5/3) and-√(5/3), −1 and −1.
+Hence, is the answer.
+

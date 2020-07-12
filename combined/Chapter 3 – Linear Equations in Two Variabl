@@ -1,0 +1,227 @@
+
+Q.1: The cost of 2 kg of apples and 1kg of grapes on a day was found to be Rs.160. After a month, the cost of 4 kg of apples and 2 kg of grapes is Rs.300. Represent the situation algebraically.
+Solutions: Let the cost of 1 kg of apples be ‘Rs. x’
+And, cost of 1 kg of grapes be ‘Rs. y’
+According to the question, the algebraic representation is
+2x+y=160
+And 4x+2y=300
+For, 2x+y=160 or y=160−2x, the solution table is;
+For 4x+2y=300 or y = 300-4×2, the solution table is;
+Note: Students can also represent these two equations graphically, by using the given points of x-coordinate and y-coordinate.
+
+Q.2: Half the perimeter of a rectangular garden, whose length is 4 m more than its width, is 36 m. Find the dimensions of the garden.
+Solution:
+Given, half the perimeter of a rectangular garden = 36 m
+so, 2(l+b)/2=36
+(l+b)=36 ……….(1)
+Given, the length is 4 m more than its width.
+Let width = x
+And length be x+4
+Substituting this in eq(1), we get;
+x+x+4=36
+2x+4=36
+2x=32
+x=16
+Therefore, width is 16m and length is 16+4 = 20 m.
+
+Q.3: On comparing the ratios a1a2, b1b2, and c1c2, find out whether the following pair of linear equations are consistent, or inconsistent.
+(i) 3x + 2y = 5 ; 2x – 3y = 7 
+(ii) 2x – 3y = 8 ; 4x – 6y = 9
+Solutions:
+(i) Given : 3x + 2y = 5 or 3x + 2y -5 = 0
+and 2x – 3y = 7 or 2x – 3y -7 = 0
+Comparing the above equations with a1x + b1y + c1=0
+And a2x + b2y + c2 = 0
+We get,
+a1=3, b1= 2, c1= -5
+a2=2, b2=-3, c2=-7
+a1/a2 = 3/2, b1/b2 = 2/-3, c1/c2 = -5/-7 = 57
+Since, a1/a2≠b1/b2
+Hence, the lines intersect each other at a point and have only one possible solution. The equations are consistent.
+(ii) Given 2x – 3y = 8 and 4x – 6y = 9
+Therefore,
+a1=2, b1= -3, c1= -8
+a2=4, b2=-6, c2=-9
+a1/a2=2/4=1/2, b1/b2=3/6=1/2, c1/c2=8/9
+Since, a1/a2=b1/b2≠c1/c2
+Therefore, the lines are parallel to each other and they have no possible solution. Hence, the equations are inconsistent.
+
+Q.4: Solve the following pair of linear equations by the substitution method.
+(i) x + y = 14
+x – y = 4
+(ii) 3x – y = 3
+9x – 3y = 9
+Solution:
+(i) Given,
+x + y = 14 and x – y = 4 are the two equations.
+From 1st equation, we get,
+x = 14 – y
+Now, put the value of x in second equation to get,
+(14 – y) – y = 4
+14 – 2y = 4
+2y = 10
+Or y = 5
+By the value of y, we can now find the exact value of x;
+∵ x = 14 – y
+∴ x = 14 – 5
+Or x = 9
+Hence, x = 9 and y = 5.
+(ii) Given,
+3x – y = 3 and 9x – 3y = 9 are the two equations.
+From 1st equation, we get,
+x = (3+y)/3
+Now, substitute the value of x in the given second equation to get,
+9(3+y)/3 – 3y = 9 ⇒ 3(3+y) – 3y = 9
+⇒9+3y-3y = 9
+⇒9=9
+Therefore, y has infinite values and since, x = (3+y)/3, so x also has infinite values.
+
+Q.5: Solve 2x + 3y = 11 and 2x – 4y = – 24 and hence find the value of ‘m’ for which y = mx + 3.
+Solution:
+
+2x + 3y = 11…………………………..(i)
+2x – 4y = -24………………………… (ii)
+From equation (ii), we get;
+x=(11-3y)/2 ……….…………………………..(iii)
+Putting the value of x in equation (ii), we get
+
+2(11-3y)/2 – 4y=−24
+11 – 3y – 4y = -24
+-7y = -35
+y = 5……………………………………..(iv)
+Putting the value of y in equation (III), we get;
+x=(11-3.5)/2 = -4/2 = −2
+Hence, x = -2, y = 5
+Also,
+y = mx + 3
+5 = -2m +3
+-2m = 2
+m = -1
+Therefore the value of m is -1.
+
+Q.6: The coach of a cricket team buys 7 bats and 6 balls for Rs.3800. Later, she buys 3 bats and 5 balls for Rs.1750. Find the cost of each bat and each ball.
+Solutions:
+Let the cost of a bat be x and the cost of a ball be y.
+According to the question,
+7x + 6y = 3800 ………………. (i)
+3x + 5y = 1750 ………………. (ii)
+From (i), we get;
+y=(3800-7x)/6 …………………… (iii)
+Substituting (iii) in (ii). we get,
+3x + 5[(3800-7x)/6] = 1750
+⇒3x + 9500/3-35x/6 = 1750
+3x -35x/6=1750-9500/3
+
+18x-35x/6 =5250-9500/3
+⇒-17x/6=-4250/3
+⇒-17x = -8500
+x = 500 ……………………….. (iv)
+Putting the value of x in (iii), we get;
+y=(3800-7×500)/6=300/6=50
+Hence, the cost of a bat is Rs 500 and cost of a ball is Rs 50.
+
+Q.7: A fraction becomes 9/11 , if 2 is added to both the numerator and the denominator. If, 3 is added to both the numerator and the denominator it becomes 5/6. Find the fraction.
+Solution:
+Let the fraction be x/y.
+According to the question,
+(x+2)/(y+2)=9/11
+
+11x + 22 = 9y + 18
+
+11x – 9y = -4 …………….. (1)
+(x+3)/(y+3)=5/6
+
+6x + 18 = 5y +15
+6x – 5y = -3 ………………. (2)
+From (1), we get x=(-4+9y)/11 …………….. (3)
+Substituting the value of x in (2), we get
+6(-4+9y)/11-5y=-3
+-24 + 54y – 55y = -33
+-y = -9
+y = 9 ………………… (4)
+Substituting the value of y in (3), we get
+x= (-4+9.9)/11 =7
+Hence the fraction is 7/9.
+
+Q.8 Form the pair of linear equations in the following problems, and find their solutions (if they exist) by the elimination method:
+(i) Five years ago, Nuri was thrice as old as Sonu. Ten years later, Nuri will be twice as old as Sonu. How old are Nuri and Sonu?
+Solutions:
+Let us assume, present age of Nuri is x
+And present age of Sonu is y.
+According to the given condition, we can write as;
+x – 5 = 3(y – 5)
+x – 3y = -10…………………………………..(1)
+Now,
+x + 10 = 2(y +10)
+x – 2y = 10…………………………………….(2)
+Subtract eq. 1 from 2, to get,
+y = 20 ………………………………………….(3)
+Substituting the value of y in eq.1, we get,
+x – 3.20 = -10
+x – 60 = -10
+x = 50
+Therefore,
+Age of Nuri is 50 years
+Age of Sonu is 20 years.
+(ii) A lending library has a fixed charge for the first three days and an additional charge for each day thereafter. Saritha paid Rs.27 for a book kept for seven days, while Susy paid Rs.21 for the book she kept for five days. Find the fixed charge and the charge for each extra day.
+Solutions: Let the fixed charge for the first three days be Rs.A and the charge for each day extra be Rs.B.
+According to the information given,
+A + 4B = 27 …………………………………….…………………………. (i)
+A + 2B = 21 ……………………………………………………………….. (ii)
+When equation (ii) is subtracted from equation (i) we get,
+2B = 6
+B = 3 …………………………………………………………………………(iii)
+Substituting B = 3 in equation (i) we get,
+A + 12 = 27
+A = 15
+Hence, the fixed charge is Rs.15/-
+And the Charge per day is Rs.3/-.
+
+Q.9: Solve the following pair of linear equations by the substitution and cross-multiplication methods: 
+8x + 5y = 9 
+3x + 2y = 4
+Solution:
+
+8x + 5y = 9 …………………..(1)
+3x + 2y = 4 ……………….….(2)
+From equation (2) we get;
+x = 4 – 2y / 3 ……………………. (3)
+Using this value in equation 1, we get
+8(4-2y)/3 + 5y = 9
+32 – 16y +15y = 27
+-y = -5
+y = 5 ……………………………….(4)
+Using this value in equation (2), we get
+3x + 10 = 4
+x = -2
+Thus, x = -2 and y = 5.
+Now, Using Cross Multiplication method:
+8x +5y – 9 = 0
+3x + 2y – 4 = 0
+x/(-20+18) = y/(-27 + 32 ) = 1/(16-15)
+-x/2 = y/5 =1/1
+∴ x = -2 and y =5.
+
+Q.10: Formulate the following problems as a pair of equations, and hence find their solutions:
+(i) Ritu can row downstream 20 km in 2 hours, and upstream 4 km in 2 hours. Find her speed of rowing in still water and the speed of the current.
+Solutions:
+(i) Let us consider,
+Speed of Ritu is still water = x km/hr
+Speed of Stream = y km/hr
+Now, speed of Ritu, during,
+Downstream = x + y km/h
+Upstream = x – y km/h
+As per the question given,
+2(x+y) = 20
+Or x + y = 10……………………….(1)
+And, 2(x-y) = 4
+Or x – y = 2………………………(2)
+Adding both the eq.1 and 2, we get,
+2x=12
+x = 6
+Putting the value of x in eq.1, we get,
+y = 4
+Therefore,
+Speed of Ritu is still water = 6 km/hr
+Speed of Stream = 4 km/hr
+

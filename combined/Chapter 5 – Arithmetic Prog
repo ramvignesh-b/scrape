@@ -1,0 +1,778 @@
+
+Q.1: Write first four terms of the A.P. when the first term a and the common difference d are given as follows:
+(i) a = 10, d = 10
+(ii) a = -2, d = 0
+(iii) a = 4, d = – 3
+Solution:
+(i) a = 10, d = 10
+Let us consider, the Arithmetic Progression series be a1, a2, a3, a4, a5 …
+a1 = a = 10
+a2 = a1 + d = 10 + 10 = 20
+a3 = a2 + d = 20 + 10 = 30
+a4 = a3 + d = 30 + 10 = 40
+a5 = a4 + d = 40 + 10 = 50
+And so on…
+Therefore, the A.P. series will be 10, 20, 30, 40, 50 …
+And First four terms of this A.P. will be 10, 20, 30, and 40.
+(ii) a = – 2, d = 0
+Let us consider, the Arithmetic Progression series be a1, a2, a3, a4, a5 …
+a1 = a = -2
+a2 = a1 + d = – 2 + 0 = – 2
+a3 = a2 + d = – 2 + 0 = – 2
+a4 = a3 + d = – 2 + 0 = – 2
+Therefore, the A.P. series will be – 2, – 2, – 2, – 2 …
+And, First four terms of this A.P. will be – 2, – 2, – 2 and – 2.
+(iii) a = 4, d = – 3
+Let us consider, the Arithmetic Progression series be a1, a2, a3, a4, a5 …
+a1 = a = 4
+a2 = a1 + d = 4 – 3 = 1
+a3 = a2 + d = 1 – 3 = – 2
+a4 = a3 + d = – 2 – 3 = – 5
+Therefore, the A.P. series will be 4, 1,- 2, – 5 …
+And, First four terms of this A.P. will be 4, 1, – 2 and – 5.
+
+Q.2: Which term of the AP: 21, 18, 15, . . . is – 81? Also, is any term 0? Give reason for your answer.
+Solution : Here, a = 21,
+d = 18 – 21 = – 3
+and
+an = – 81, and we have to find n.
+As an = a + ( n – 1) d,
+we have;
+– 81 = 21 + (n – 1)(– 3)
+– 81 = 24 – 3n
+– 105 = – 3n
+So, n = 35
+Therefore, the 35th term of the given AP is – 81.
+Next, we want to know if there is any n for which an = 0.
+If such an n is there, then;
+21 + (n – 1) (–3) = 0,
+3(n – 1) = 21
+n = 8
+Therefore, the eighth term is 0.
+
+Q.3: Check whether – 150 is a term of the AP: 11, 8, 5, 2 . . .
+Solution:
+For the given, A.P. 11, 8, 5, 2, …
+First term, a = 11
+Common difference, d = a2 − a1 = 8 − 11 = −3
+Let −150 be the nth term of this A.P.
+As we know, for an A.P.,
+an = a + (n − 1) d
+-150 = 11 + (n – 1)(-3)
+-150 = 11 – 3n + 3
+-164 = -3n
+n = 164/3
+Clearly, n is not an integer but a fraction.
+Therefore, – 150 is not a term of this A.P.
+
+Q.4: If the 3rd and the 9th terms of an A.P. are 4 and − 8 respectively, then which term of this A.P is zero.
+Solution:
+Given that,
+
+3rd term, a3 = 4
+and 9th term, a9 = −8
+We know that, the nth term of AP is;
+an = a + (n − 1) d
+Therefore,
+a3 = a + (3 − 1) d
+4 = a + 2d ……………………………………… (i)
+a9 = a + (9 − 1) d
+−8 = a + 8d ………………………………………………… (ii)
+On subtracting equation (i) from (ii), we will get here,
+−12 = 6d
+d = −2
+From equation (i), we can write,
+4 = a + 2 (−2)
+4 = a − 4
+a = 8
+Let nth term of this A.P. be zero.
+an = a + (n − 1) d
+0 = 8 + (n − 1) (−2)
+0 = 8 − 2n + 2
+2n = 10
+n = 5
+Hence, 5th term of this A.P. is 0.
+
+Q.5: Which term of the A.P. 3, 15, 27, 39, … will be 132 more than its 54th term?
+Solution: Given A.P. is 3, 15, 27, 39, …
+first term, a = 3
+common difference, d = a2 − a1 = 15 − 3 = 12
+We know that,
+an = a + (n − 1) d
+Therefore,
+a54 = a + (54 − 1) d
+= 3 + (53) (12)
+= 3 + 636 = 639
+a54 = 639
+We have to find the term of this A.P. which is 132 more than a54, i.e. 771.
+Let nth term be 771.
+an = a + (n − 1) d
+771 = 3 + (n − 1) 12
+768 = (n − 1) 12
+(n − 1) = 64
+n = 65
+Therefore, 65th term was 132 more than 54th term.
+Alternate Method:
+Let nth term be 132 more than 54th term.
+n = 54 + 132/12
+= 54 + 11
+= 65th term
+
+Q. 6: How many multiples of 4 lie between 10 and 250?
+Solution: The first multiple of 4 that is greater than 10 is 12.
+Next multiple will be 16.
+Therefore, the series formed as;
+
+12, 16, 20, 24, …
+All these are divisible by 4 and thus, all these are terms of an A.P. with the first term as 12 and common difference as 4.
+When we divide 250 by 4, the remainder will be 2. Therefore, 250 − 2 = 248 is divisible by 4.
+The series is as follows, now;
+12, 16, 20, 24, …, 248
+Let 248 be the nth term of this A.P.
+first term, a = 12
+common difference, d = 4
+an = 248
+As we know,
+an = a + (n – 1) d
+248 = 12 + (n – 1) × 4
+236/4 = n – 1
+59 = n – 1
+n = 60
+Therefore, there are 60 multiples of 4 between 10 and 250.
+
+Q.7: The sum of 4th and 8th terms of an A.P. is 24 and the sum of the 6th and 10th terms is 44. Find the first three terms of the A.P.
+Solutions: We know, the nth term of the AP is;
+an = a + (n − 1) d
+a4 = a + (4 − 1) d
+a4 = a + 3d
+Thus, we can write,
+a8 = a + 7d
+a6 = a + 5d
+a10 = a + 9d
+Given in the question;
+a4 + a8 = 24
+a + 3d + a + 7d = 24
+2a + 10d = 24
+a + 5d = 12 …………………………………………………… (i)
+a6 + a10 = 44
+a + 5d + a + 9d = 44
+2a + 14d = 44
+a + 7d = 22 …………………………………….. (ii)
+On subtracting equation (i) from (ii), we get,
+2d = 22 − 12
+2d = 10
+d = 5
+From equation (i), we get,
+a + 5d = 12
+a + 5 (5) = 12
+a + 25 = 12
+a = −13
+a2 = a + d = − 13 + 5 = −8
+a3 = a2 + d = − 8 + 5 = −3
+Therefore, the first three terms of this A.P. are −13, −8, and −3.
+
+Q.8: Ramkali saved Rs 5 in the first week of a year and then increased her weekly saving by Rs 1.75. If in the nth week, fher weekly savings become Rs 20.75, find n.
+Solution: Given that, Ramkali saved Rs.5 in the first week and then started increasing her savings each week by Rs.1.75.
+Hence,
+First term, a = 5
+and common difference, d = 1.75
+Also given,
+an = 20.75
+Find, n = ?
+As we know, by the nth term formula,
+an = a + (n − 1) d
+Therefore,
+20.75 = 5 + (n – 1) × 1.75
+15.75 = (n – 1) × 1.75
+(n – 1) = 15.75/1.75 = 1575/175
+= 63/7 = 9
+n – 1 = 9
+n = 10
+Hence, n is 10.
+
+Q.9: How many terms of the AP : 24, 21, 18, . . . must be taken so that their sum is 78?
+Solution: Here, a = 24, d = 21 – 24 = –3, Sn = 78. We need to find n.
+We know that;
+Sn = n/2[2a+(n-1)d]
+So, 78 = n/2 [48+(n-1)(-3)]
+= n/2 [51 – 3n]
+3n2 – 51n +156 = 0
+n2 – 17n + 52 = 0
+(n-4) (n-13) = 0
+n = 4 or 13
+Both values of n are admissible. So, the number of terms is either 4 or 13.
+Q. 10: The first term of an AP is 5, the last term is 45 and the sum is 400. Find the number of terms and the common difference.
+Solution: Given that,
+first term, a = 5
+last term, l = 45
+Sum of the AP, Sn = 400
+As we know, the sum of AP formula is;
+Sn = n/2 (a + l)
+400 = n/2 (5 + 45)
+400 = n/2 (50)
+Number of terms, n = 16
+As we know, the last term of AP series can be written as;
+Last term, l = a + (n − 1) d
+45 = 5 + (16 − 1) d
+40 = 15d
+Therefore,
+Common difference, d = 40/15 = 8/3
+Q.11:  Find the sum of first 22 terms of an AP in which d = 7 and 22nd term is 149.
+Solution: Given,
+Common difference, d = 7
+22nd term, a22 = 149
+To find: Sum of first 22 term, S22
+By the formula of nth term, we know;
+an = a + (n − 1)d
+a22 = a + (22 − 1)d
+149 = a + 21 × 7
+149 = a + 147
+a = 2 = First term
+Sum of nth term is given by the formula;
+Sn = n/2 (a + an)
+= 22/2 (2 + 149)
+= 11 × 151
+= 1661
+Q.11: If the sum of the first n terms of an AP is 4n − n2, what is the first term (that is S1)? What is the sum of first two terms? What is the second term? Similarly find the 3rd, the 10th and the nth terms.
+Solution: Given that,
+Sn = 4n − n2
+First term, a = S1 = 4(1) − (1)2 = 4 − 1 = 3
+Sum of first two terms = S2= 4(2) − (2)2 = 8 − 4 = 4
+Second term, a2 = S2 − S1 = 4 − 3 = 1
+Common difference, d = a2 − a = 1 − 3 = −2
+Nth term is given by,
+an = a + (n − 1)d
+= 3 + (n − 1) (−2)
+= 3 − 2n + 2
+= 5 − 2n
+Therefore, a3 = 5 − 2(3) = 5 − 6 = −1
+a10 = 5 − 2(10) = 5 − 20 = −15
+Hence, the sum of first two terms is 4. The second term is 1.
+The 3rd, 10th, and nth terms are −1, −15, and 5 − 2n respectively.
+Q.12: A sum of Rs 700 is to be used to give seven cash prizes to students of a school for their overall academic performance. If each prize is Rs 20 less than its preceding prize, find the value of each of the prizes.
+Solution: Let the cost of 1st prize be Rs.P.
+Cost of 2nd prize = Rs.P − 20
+And cost of 3rd prize = Rs.P − 40
+We can see that the cost of these prizes is in the form of A.P., having a common difference as −20 and first term as P.
+Thus, a = P and d = −20
+Given that, S7 = 700
+By the formula of sum of nth term, we know,
+Sn = n/2 [2a + (n – 1)d]
+7/2 [2a + (7 – 1)d] = 700
+[2a+(6)(-20)]/2 = 100
+a + 3(−20) = 100
+a − 60 = 100
+a = 160
+Therefore, the value of each of the prizes was Rs 160, Rs 140, Rs 120, Rs 100, Rs 80, Rs 60, and Rs 40.
+Q.13: The sum of the third and the seventh terms of an AP is 6 and their product is 8. Find the sum of the first sixteen terms of the AP.
+Solution: From the given statements, we can write,
+a3 + a7 = 6 …………………………….(i)
+And
+a3 × a7 = 8 ……………………………..(ii)
+By the nth term formula,
+an = a + (n − 1)d
+Third term, a3 = a + (3 -1)d
+a3 = a + 2d………………………………(iii)
+And Seventh term, a7 = a + (7 -1)d
+a7 = a + 6d ………………………………..(iv)
+From equation (iii) and (iv), putting in equation(i), we get,
+a + 2d + a + 6d = 6
+2a + 8d = 6
+a+4d=3
+or
+a = 3 – 4d …………………………………(v)
+Again putting the eq. (iii) and (iv), in eq. (ii), we get,
+(a + 2d) × (a + 6d) = 8
+Putting the value of a from equation (v), we get,
+(3 – 4d + 2d) × (3 – 4d + 6d) = 8
+(3 – 2d) × (3 + 2d) = 8
+32 – 2d2 = 8
+9 – 4d2 = 8
+4d2 = 1
+d = 1/2 or -1/2
+Now, by putting both the values of d, we get,
+a = 3 – 4d = 3 – 4(1/2) = 3 – 2 = 1, when d = ½
+a = 3 – 4d = 3 – 4(-1/2) = 3+2 = 5, when d = -1/2
+We know, the sum of nth term of AP is;
+Sn = n/2 [2a + (n – 1)d]
+So, when a = 1 and d=1/2
+Then, the sum of first 16 terms are;
+S16 = 16/2 [2 + (16 – 1)1/2] = 8(2+15/2) = 76
+And when a = 5 and d= -1/2
+Then, the sum of first 16 terms are;
+S16 = 16/2 [2(5)+ (16 – 1)(-1/2)] = 8(5/2)=20
+Q.14: The houses of a row are numbered consecutively from 1 to 49. Show that there is a value of x such that the sum of the numbers of the houses preceding the house numbered x is equal to the sum of the numbers of the houses following it. Find this value of x. [Hint : Sx-1 = S49 – Sx ]
+Solution: Given,
+Row houses are numbers from 1,2,3,4,5…….49.
+Thus we can see the houses numbered in a row are in the form of AP.
+So,
+First term, a = 1
+Common difference, d=1
+Let us say the number of xth houses can be represented as;
+Sum of preceding the numbers of x = sum of following numbers of x
+i.e. Sum of ( 1,2,3,….x-1) = sum of [(x+1), (x+2) ,….48,49]
+That is 1 + 2 + 3 + …… + ( x-1) = ( x+1) + ( x+2) …… + 49
+=> (x-1)/2[1+x-1] = (49-x)/2[x+1+49]
+=> (x-1)x=(49-x)(x+50)
+=> x²-x=49x+2450-x²-50x
+=> x²-x =2450-x²-x
+=> 2x²=2450
+=> x²=1225
+x=√1225
+x = 35
+Therefore, the value of x is 35.
+
+
+
+So, 78 = n/2 [48+(n-1)(-3)]
+= n/2 [51 – 3n]
+3n2 – 51n +156 = 0
+n2 – 17n + 52 = 0
+(n-4) (n-13) = 0
+n = 4 or 13
+Both values of n are admissible. So, the number of terms is either 4 or 13.
+Q. 10: The first term of an AP is 5, the last term is 45 and the sum is 400. Find the number of terms and the common difference.
+Solution: Given that,
+first term, a = 5
+last term, l = 45
+Sum of the AP, Sn = 400
+As we know, the sum of AP formula is;
+Sn = n/2 (a + l)
+400 = n/2 (5 + 45)
+400 = n/2 (50)
+Number of terms, n = 16
+As we know, the last term of AP series can be written as;
+Last term, l = a + (n − 1) d
+45 = 5 + (16 − 1) d
+40 = 15d
+Therefore,
+Common difference, d = 40/15 = 8/3
+Q.11:  Find the sum of first 22 terms of an AP in which d = 7 and 22nd term is 149.
+Solution: Given,
+Common difference, d = 7
+22nd term, a22 = 149
+To find: Sum of first 22 term, S22
+By the formula of nth term, we know;
+an = a + (n − 1)d
+a22 = a + (22 − 1)d
+149 = a + 21 × 7
+149 = a + 147
+a = 2 = First term
+Sum of nth term is given by the formula;
+Sn = n/2 (a + an)
+= 22/2 (2 + 149)
+= 11 × 151
+= 1661
+Q.11: If the sum of the first n terms of an AP is 4n − n2, what is the first term (that is S1)? What is the sum of first two terms? What is the second term? Similarly find the 3rd, the 10th and the nth terms.
+Solution: Given that,
+Sn = 4n − n2
+First term, a = S1 = 4(1) − (1)2 = 4 − 1 = 3
+Sum of first two terms = S2= 4(2) − (2)2 = 8 − 4 = 4
+Second term, a2 = S2 − S1 = 4 − 3 = 1
+Common difference, d = a2 − a = 1 − 3 = −2
+Nth term is given by,
+an = a + (n − 1)d
+= 3 + (n − 1) (−2)
+= 3 − 2n + 2
+= 5 − 2n
+Therefore, a3 = 5 − 2(3) = 5 − 6 = −1
+a10 = 5 − 2(10) = 5 − 20 = −15
+Hence, the sum of first two terms is 4. The second term is 1.
+The 3rd, 10th, and nth terms are −1, −15, and 5 − 2n respectively.
+Q.12: A sum of Rs 700 is to be used to give seven cash prizes to students of a school for their overall academic performance. If each prize is Rs 20 less than its preceding prize, find the value of each of the prizes.
+Solution: Let the cost of 1st prize be Rs.P.
+Cost of 2nd prize = Rs.P − 20
+And cost of 3rd prize = Rs.P − 40
+We can see that the cost of these prizes is in the form of A.P., having a common difference as −20 and first term as P.
+Thus, a = P and d = −20
+Given that, S7 = 700
+By the formula of sum of nth term, we know,
+Sn = n/2 [2a + (n – 1)d]
+7/2 [2a + (7 – 1)d] = 700
+[2a+(6)(-20)]/2 = 100
+a + 3(−20) = 100
+a − 60 = 100
+a = 160
+Therefore, the value of each of the prizes was Rs 160, Rs 140, Rs 120, Rs 100, Rs 80, Rs 60, and Rs 40.
+Q.13: The sum of the third and the seventh terms of an AP is 6 and their product is 8. Find the sum of the first sixteen terms of the AP.
+Solution: From the given statements, we can write,
+a3 + a7 = 6 …………………………….(i)
+And
+a3 × a7 = 8 ……………………………..(ii)
+By the nth term formula,
+an = a + (n − 1)d
+Third term, a3 = a + (3 -1)d
+a3 = a + 2d………………………………(iii)
+And Seventh term, a7 = a + (7 -1)d
+a7 = a + 6d ………………………………..(iv)
+From equation (iii) and (iv), putting in equation(i), we get,
+a + 2d + a + 6d = 6
+2a + 8d = 6
+a+4d=3
+or
+a = 3 – 4d …………………………………(v)
+Again putting the eq. (iii) and (iv), in eq. (ii), we get,
+(a + 2d) × (a + 6d) = 8
+Putting the value of a from equation (v), we get,
+(3 – 4d + 2d) × (3 – 4d + 6d) = 8
+(3 – 2d) × (3 + 2d) = 8
+32 – 2d2 = 8
+9 – 4d2 = 8
+4d2 = 1
+d = 1/2 or -1/2
+Now, by putting both the values of d, we get,
+a = 3 – 4d = 3 – 4(1/2) = 3 – 2 = 1, when d = ½
+a = 3 – 4d = 3 – 4(-1/2) = 3+2 = 5, when d = -1/2
+We know, the sum of nth term of AP is;
+Sn = n/2 [2a + (n – 1)d]
+So, when a = 1 and d=1/2
+Then, the sum of first 16 terms are;
+S16 = 16/2 [2 + (16 – 1)1/2] = 8(2+15/2) = 76
+And when a = 5 and d= -1/2
+Then, the sum of first 16 terms are;
+S16 = 16/2 [2(5)+ (16 – 1)(-1/2)] = 8(5/2)=20
+Q.14: The houses of a row are numbered consecutively from 1 to 49. Show that there is a value of x such that the sum of the numbers of the houses preceding the house numbered x is equal to the sum of the numbers of the houses following it. Find this value of x. [Hint : Sx-1 = S49 – Sx ]
+Solution: Given,
+Row houses are numbers from 1,2,3,4,5…….49.
+Thus we can see the houses numbered in a row are in the form of AP.
+So,
+First term, a = 1
+Common difference, d=1
+Let us say the number of xth houses can be represented as;
+Sum of preceding the numbers of x = sum of following numbers of x
+i.e. Sum of ( 1,2,3,….x-1) = sum of [(x+1), (x+2) ,….48,49]
+That is 1 + 2 + 3 + …… + ( x-1) = ( x+1) + ( x+2) …… + 49
+=> (x-1)/2[1+x-1] = (49-x)/2[x+1+49]
+=> (x-1)x=(49-x)(x+50)
+=> x²-x=49x+2450-x²-50x
+=> x²-x =2450-x²-x
+=> 2x²=2450
+=> x²=1225
+x=√1225
+x = 35
+Therefore, the value of x is 35.
+
+
+
+= n/2 [51 – 3n]
+3n2 – 51n +156 = 0
+n2 – 17n + 52 = 0
+(n-4) (n-13) = 0
+n = 4 or 13
+Both values of n are admissible. So, the number of terms is either 4 or 13.
+Q. 10: The first term of an AP is 5, the last term is 45 and the sum is 400. Find the number of terms and the common difference.
+Solution: Given that,
+first term, a = 5
+last term, l = 45
+Sum of the AP, Sn = 400
+As we know, the sum of AP formula is;
+Sn = n/2 (a + l)
+400 = n/2 (5 + 45)
+400 = n/2 (50)
+Number of terms, n = 16
+As we know, the last term of AP series can be written as;
+Last term, l = a + (n − 1) d
+45 = 5 + (16 − 1) d
+40 = 15d
+Therefore,
+Common difference, d = 40/15 = 8/3
+Q.11:  Find the sum of first 22 terms of an AP in which d = 7 and 22nd term is 149.
+Solution: Given,
+Common difference, d = 7
+22nd term, a22 = 149
+To find: Sum of first 22 term, S22
+By the formula of nth term, we know;
+an = a + (n − 1)d
+a22 = a + (22 − 1)d
+149 = a + 21 × 7
+149 = a + 147
+a = 2 = First term
+Sum of nth term is given by the formula;
+Sn = n/2 (a + an)
+= 22/2 (2 + 149)
+= 11 × 151
+= 1661
+Q.11: If the sum of the first n terms of an AP is 4n − n2, what is the first term (that is S1)? What is the sum of first two terms? What is the second term? Similarly find the 3rd, the 10th and the nth terms.
+Solution: Given that,
+Sn = 4n − n2
+First term, a = S1 = 4(1) − (1)2 = 4 − 1 = 3
+Sum of first two terms = S2= 4(2) − (2)2 = 8 − 4 = 4
+Second term, a2 = S2 − S1 = 4 − 3 = 1
+Common difference, d = a2 − a = 1 − 3 = −2
+Nth term is given by,
+an = a + (n − 1)d
+= 3 + (n − 1) (−2)
+= 3 − 2n + 2
+= 5 − 2n
+Therefore, a3 = 5 − 2(3) = 5 − 6 = −1
+a10 = 5 − 2(10) = 5 − 20 = −15
+Hence, the sum of first two terms is 4. The second term is 1.
+The 3rd, 10th, and nth terms are −1, −15, and 5 − 2n respectively.
+Q.12: A sum of Rs 700 is to be used to give seven cash prizes to students of a school for their overall academic performance. If each prize is Rs 20 less than its preceding prize, find the value of each of the prizes.
+Solution: Let the cost of 1st prize be Rs.P.
+Cost of 2nd prize = Rs.P − 20
+And cost of 3rd prize = Rs.P − 40
+We can see that the cost of these prizes is in the form of A.P., having a common difference as −20 and first term as P.
+Thus, a = P and d = −20
+Given that, S7 = 700
+By the formula of sum of nth term, we know,
+Sn = n/2 [2a + (n – 1)d]
+7/2 [2a + (7 – 1)d] = 700
+[2a+(6)(-20)]/2 = 100
+a + 3(−20) = 100
+a − 60 = 100
+a = 160
+Therefore, the value of each of the prizes was Rs 160, Rs 140, Rs 120, Rs 100, Rs 80, Rs 60, and Rs 40.
+Q.13: The sum of the third and the seventh terms of an AP is 6 and their product is 8. Find the sum of the first sixteen terms of the AP.
+Solution: From the given statements, we can write,
+a3 + a7 = 6 …………………………….(i)
+And
+a3 × a7 = 8 ……………………………..(ii)
+By the nth term formula,
+an = a + (n − 1)d
+Third term, a3 = a + (3 -1)d
+a3 = a + 2d………………………………(iii)
+And Seventh term, a7 = a + (7 -1)d
+a7 = a + 6d ………………………………..(iv)
+From equation (iii) and (iv), putting in equation(i), we get,
+a + 2d + a + 6d = 6
+2a + 8d = 6
+a+4d=3
+or
+a = 3 – 4d …………………………………(v)
+Again putting the eq. (iii) and (iv), in eq. (ii), we get,
+(a + 2d) × (a + 6d) = 8
+Putting the value of a from equation (v), we get,
+(3 – 4d + 2d) × (3 – 4d + 6d) = 8
+(3 – 2d) × (3 + 2d) = 8
+32 – 2d2 = 8
+9 – 4d2 = 8
+4d2 = 1
+d = 1/2 or -1/2
+Now, by putting both the values of d, we get,
+a = 3 – 4d = 3 – 4(1/2) = 3 – 2 = 1, when d = ½
+a = 3 – 4d = 3 – 4(-1/2) = 3+2 = 5, when d = -1/2
+We know, the sum of nth term of AP is;
+Sn = n/2 [2a + (n – 1)d]
+So, when a = 1 and d=1/2
+Then, the sum of first 16 terms are;
+S16 = 16/2 [2 + (16 – 1)1/2] = 8(2+15/2) = 76
+And when a = 5 and d= -1/2
+Then, the sum of first 16 terms are;
+S16 = 16/2 [2(5)+ (16 – 1)(-1/2)] = 8(5/2)=20
+Q.14: The houses of a row are numbered consecutively from 1 to 49. Show that there is a value of x such that the sum of the numbers of the houses preceding the house numbered x is equal to the sum of the numbers of the houses following it. Find this value of x. [Hint : Sx-1 = S49 – Sx ]
+Solution: Given,
+Row houses are numbers from 1,2,3,4,5…….49.
+Thus we can see the houses numbered in a row are in the form of AP.
+So,
+First term, a = 1
+Common difference, d=1
+Let us say the number of xth houses can be represented as;
+Sum of preceding the numbers of x = sum of following numbers of x
+i.e. Sum of ( 1,2,3,….x-1) = sum of [(x+1), (x+2) ,….48,49]
+That is 1 + 2 + 3 + …… + ( x-1) = ( x+1) + ( x+2) …… + 49
+=> (x-1)/2[1+x-1] = (49-x)/2[x+1+49]
+=> (x-1)x=(49-x)(x+50)
+=> x²-x=49x+2450-x²-50x
+=> x²-x =2450-x²-x
+=> 2x²=2450
+=> x²=1225
+x=√1225
+x = 35
+Therefore, the value of x is 35.
+
+
+
+
+3n2 – 51n +156 = 0
+n2 – 17n + 52 = 0
+(n-4) (n-13) = 0
+n = 4 or 13
+Both values of n are admissible. So, the number of terms is either 4 or 13.
+
+Q. 10: The first term of an AP is 5, the last term is 45 and the sum is 400. Find the number of terms and the common difference.
+Solution: Given that,
+first term, a = 5
+last term, l = 45
+Sum of the AP, Sn = 400
+As we know, the sum of AP formula is;
+Sn = n/2 (a + l)
+400 = n/2 (5 + 45)
+
+400 = n/2 (50)
+Number of terms, n = 16
+As we know, the last term of AP series can be written as;
+Last term, l = a + (n − 1) d
+45 = 5 + (16 − 1) d
+40 = 15d
+Therefore,
+Common difference, d = 40/15 = 8/3
+
+Q.11:  Find the sum of first 22 terms of an AP in which d = 7 and 22nd term is 149.
+Solution: Given,
+Common difference, d = 7
+22nd term, a22 = 149
+To find: Sum of first 22 term, S22
+By the formula of nth term, we know;
+an = a + (n − 1)d
+a22 = a + (22 − 1)d
+149 = a + 21 × 7
+149 = a + 147
+a = 2 = First term
+Sum of nth term is given by the formula;
+Sn = n/2 (a + an)
+= 22/2 (2 + 149)
+= 11 × 151
+= 1661
+
+Q.11: If the sum of the first n terms of an AP is 4n − n2, what is the first term (that is S1)? What is the sum of first two terms? What is the second term? Similarly find the 3rd, the 10th and the nth terms.
+Solution: Given that,
+Sn = 4n − n2
+First term, a = S1 = 4(1) − (1)2 = 4 − 1 = 3
+Sum of first two terms = S2= 4(2) − (2)2 = 8 − 4 = 4
+Second term, a2 = S2 − S1 = 4 − 3 = 1
+Common difference, d = a2 − a = 1 − 3 = −2
+Nth term is given by,
+an = a + (n − 1)d
+= 3 + (n − 1) (−2)
+= 3 − 2n + 2
+= 5 − 2n
+Therefore, a3 = 5 − 2(3) = 5 − 6 = −1
+a10 = 5 − 2(10) = 5 − 20 = −15
+Hence, the sum of first two terms is 4. The second term is 1.
+The 3rd, 10th, and nth terms are −1, −15, and 5 − 2n respectively.
+
+Q.12: A sum of Rs 700 is to be used to give seven cash prizes to students of a school for their overall academic performance. If each prize is Rs 20 less than its preceding prize, find the value of each of the prizes.
+Solution: Let the cost of 1st prize be Rs.P.
+Cost of 2nd prize = Rs.P − 20
+And cost of 3rd prize = Rs.P − 40
+We can see that the cost of these prizes is in the form of A.P., having a common difference as −20 and first term as P.
+Thus, a = P and d = −20
+Given that, S7 = 700
+By the formula of sum of nth term, we know,
+Sn = n/2 [2a + (n – 1)d]
+7/2 [2a + (7 – 1)d] = 700
+[2a+(6)(-20)]/2 = 100
+
+7/2 [2a + (7 – 1)d] = 700
+a + 3(−20) = 100
+a − 60 = 100
+a = 160
+Therefore, the value of each of the prizes was Rs 160, Rs 140, Rs 120, Rs 100, Rs 80, Rs 60, and Rs 40.
+
+Q.13: The sum of the third and the seventh terms of an AP is 6 and their product is 8. Find the sum of the first sixteen terms of the AP.
+Solution: From the given statements, we can write,
+a3 + a7 = 6 …………………………….(i)
+And
+a3 × a7 = 8 ……………………………..(ii)
+By the nth term formula,
+an = a + (n − 1)d
+Third term, a3 = a + (3 -1)d
+a3 = a + 2d………………………………(iii)
+And Seventh term, a7 = a + (7 -1)d
+a7 = a + 6d ………………………………..(iv)
+From equation (iii) and (iv), putting in equation(i), we get,
+a + 2d + a + 6d = 6
+
+2a + 8d = 6
+a+4d=3
+or
+a = 3 – 4d …………………………………(v)
+Again putting the eq. (iii) and (iv), in eq. (ii), we get,
+(a + 2d) × (a + 6d) = 8
+Putting the value of a from equation (v), we get,
+(3 – 4d + 2d) × (3 – 4d + 6d) = 8
+(3 – 2d) × (3 + 2d) = 8
+
+32 – 2d2 = 8
+
+9 – 4d2 = 8
+
+4d2 = 1
+d = 1/2 or -1/2
+Now, by putting both the values of d, we get,
+a = 3 – 4d = 3 – 4(1/2) = 3 – 2 = 1, when d = ½
+a = 3 – 4d = 3 – 4(-1/2) = 3+2 = 5, when d = -1/2
+We know, the sum of nth term of AP is;
+Sn = n/2 [2a + (n – 1)d]
+So, when a = 1 and d=1/2
+Then, the sum of first 16 terms are;
+S16 = 16/2 [2 + (16 – 1)1/2] = 8(2+15/2) = 76
+And when a = 5 and d= -1/2
+Then, the sum of first 16 terms are;
+S16 = 16/2 [2(5)+ (16 – 1)(-1/2)] = 8(5/2)=20
+Q.14: The houses of a row are numbered consecutively from 1 to 49. Show that there is a value of x such that the sum of the numbers of the houses preceding the house numbered x is equal to the sum of the numbers of the houses following it. Find this value of x. [Hint : Sx-1 = S49 – Sx ]
+Solution: Given,
+Row houses are numbers from 1,2,3,4,5…….49.
+Thus we can see the houses numbered in a row are in the form of AP.
+So,
+First term, a = 1
+Common difference, d=1
+Let us say the number of xth houses can be represented as;
+Sum of preceding the numbers of x = sum of following numbers of x
+i.e. Sum of ( 1,2,3,….x-1) = sum of [(x+1), (x+2) ,….48,49]
+That is 1 + 2 + 3 + …… + ( x-1) = ( x+1) + ( x+2) …… + 49
+=> (x-1)/2[1+x-1] = (49-x)/2[x+1+49]
+=> (x-1)x=(49-x)(x+50)
+=> x²-x=49x+2450-x²-50x
+=> x²-x =2450-x²-x
+=> 2x²=2450
+=> x²=1225
+x=√1225
+x = 35
+Therefore, the value of x is 35.
+
+
+
+So, when a = 1 and d=1/2
+Then, the sum of first 16 terms are;
+S16 = 16/2 [2 + (16 – 1)1/2] = 8(2+15/2) = 76
+And when a = 5 and d= -1/2
+Then, the sum of first 16 terms are;
+S16 = 16/2 [2(5)+ (16 – 1)(-1/2)] = 8(5/2)=20
+
+Q.14: The houses of a row are numbered consecutively from 1 to 49. Show that there is a value of x such that the sum of the numbers of the houses preceding the house numbered x is equal to the sum of the numbers of the houses following it. Find this value of x. [Hint : Sx-1 = S49 – Sx ]
+Solution: Given,
+Row houses are numbers from 1,2,3,4,5…….49.
+Thus we can see the houses numbered in a row are in the form of AP.
+So,
+First term, a = 1
+Common difference, d=1
+Let us say the number of xth houses can be represented as;
+Sum of preceding the numbers of x = sum of following numbers of x
+i.e. Sum of ( 1,2,3,….x-1) = sum of [(x+1), (x+2) ,….48,49]
+That is 1 + 2 + 3 + …… + ( x-1) = ( x+1) + ( x+2) …… + 49
+=> (x-1)/2[1+x-1] = (49-x)/2[x+1+49]
+=> (x-1)x=(49-x)(x+50)
+=> x²-x=49x+2450-x²-50x
+=> x²-x =2450-x²-x
+=> 2x²=2450
+=> x²=1225
+x=√1225
+x = 35
+Therefore, the value of x is 35.
+
+
+
+That is 1 + 2 + 3 + …… + ( x-1) = ( x+1) + ( x+2) …… + 49
+=> (x-1)/2[1+x-1] = (49-x)/2[x+1+49]
+=> (x-1)x=(49-x)(x+50)
+=> x²-x=49x+2450-x²-50x
+=> x²-x =2450-x²-x
+=> 2x²=2450
+=> x²=1225
+x=√1225
+x = 35
+Therefore, the value of x is 35.
+
+
+
+=> (x-1)x=(49-x)(x+50)
+=> x²-x=49x+2450-x²-50x
+=> x²-x =2450-x²-x
+=> 2x²=2450
+=> x²=1225
+x=√1225
+x = 35
+Therefore, the value of x is 35.
+

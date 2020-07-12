@@ -1,0 +1,219 @@
+
+Q.1: Represent the following situations in the form of quadratic equations:
+(i) The area of a rectangular plot is 528 m2. The length of the plot (in metres) is one more than twice its breadth. We need to find the length and breadth of the plot.
+(ii) A train travels a distance of 480 km at a uniform speed. If the speed had been 8 km/h less, then it would have taken 3 hours more to cover the same distance.
+Solution:
+(i) Let us consider,
+The breadth of the rectangular plot is x m
+Thus, the length of the plot = (2x + 1) m.
+As we know,
+Area of rectangle = length × breadth = 528 m2
+Putting the value of length and breadth of the plot in the formula, we get,
+(2x + 1) × x = 528
+⇒ 2x2 + x =528
+⇒ 2x2 + x – 528 = 0
+Hence, 2x2 + x – 528 = 0, is the required equation which represents the given situation.
+(ii) Let us consider,
+speed of train = x km/h
+And
+Time taken to travel 480 km = 480 (x) km/h
+As per second situation, the speed of train = (x – 8) km/h
+As given, the train will take 3 hours to cover the same distance.
+Therefore, time taken to travel 480 km = 480x + 3 km/h
+As we know,
+Speed × Time = Distance
+Therefore,
+(x – 8)(480/x + 3) = 480
+⇒ 480 + 3x – 3840/x – 24 = 480
+⇒ 3x – 3840/x = 24
+⇒ 3x2 – 8x – 1280 = 0
+Hence, 3x2 – 8x – 1280 = 0 is the required representation of the problem mathematically.
+
+Q.2: Find the roots of quadratic equations by factorisation:
+(i) √2 x2 + 7x + 5√2=0
+(ii) 100x2 – 20x + 1 = 0
+Solution:
+(i)  √2 x2 + 7x + 5√2=0
+Considering the L.H.S. first,
+⇒ √2 x2 + 5x + 2x + 5√2
+⇒ x (√2x + 5) + √2(√2x + 5)= (√2x + 5)(x + √2)
+The roots of this equation, √2 x2 + 7x + 5√2=0 are the values of x for which (√2x + 5)(x + √2) = 0
+Therefore, √2x + 5 = 0 or x + √2 = 0
+⇒ x = -5/√2 or x = -√2
+(ii) Given, 100x2 – 20x + 1=0
+Considering the L.H.S. first,
+⇒ 100x2 – 10x – 10x + 1
+⇒ 10x(10x – 1) -1(10x – 1)
+⇒ (10x – 1)2
+The roots of this equation, 100x2 – 20x + 1=0, are the values of x for which (10x – 1)2= 0
+Therefore,
+(10x – 1) = 0
+or (10x – 1) = 0
+⇒ x =1/10 or x =1/10
+
+Q.3: Find two consecutive positive integers, sum of whose squares is 365.
+Solutions: Let us say, the two consecutive positive integers be x and x + 1.
+Therefore, as per the given questions,
+x2 + (x + 1)2 = 365
+⇒ x2 + x2 + 1 + 2x = 365
+⇒ 2x2 + 2x – 364 = 0
+⇒ x2 + x – 182 = 0
+⇒ x2 + 14x – 13x – 182 = 0
+⇒ x(x + 14) -13(x + 14) = 0
+⇒ (x + 14)(x – 13) = 0
+Thus, either, x + 14 = 0 or x – 13 = 0,
+⇒ x = – 14 or x = 13
+since, the integers are positive, so x can be 13, only.
+So, x + 1 = 13 + 1 = 14
+Therefore, the two consecutive positive integers will be 13 and 14.
+
+Q.4: Find the roots of the following quadratic equations, if they exist, by the method of completing the square:
+(i) 2x2 – 7x +3 = 0
+(ii) 2x2 + x – 4 = 0
+Solution:
+(i) 2x2 – 7x + 3 = 0
+⇒ 2x2 – 7x = – 3
+Dividing by 2 on both sides, we get
+⇒x2–7x/2 = -3/2
+⇒x2 – 2 × x × 7/4 = -3/2
+On adding (7/4)2 to both sides of above equation, we get
+⇒ (x)2 – 2 × x × 7/4 + (7/4)2 = (7/4)2 -3/2
+⇒ (x – 7/4)2 = 49/16 -3/2
+⇒ (x – 7/4)2 = 25/16
+⇒ (x – 7/4) = ± 5/4
+⇒ x = 7/4 ±5/4
+⇒ x = 7/4 +5/4 or x = 7/4-5/4
+⇒ x =12/4 or x =2/4
+⇒ x = 3 or 1/2
+(ii) 2x2 + x – 4 = 0
+⇒ 2x2 + x = 4
+Dividing both sides of the above equation by 2, we get
+⇒ x2 + x/2 = 2
+Now on adding (1/4)2 to both sides of the equation, we get,
+⇒ (x)2 + 2 × x × 1/4 + (1/4)2 = 2 + (1/4)2
+⇒ (x + 1/4)2 = 33/16
+⇒ x + 1/4 = ± √33/4
+⇒ x = ± √33/4 – 1/4
+⇒ x = ± √33-1/4
+Therefore, either x = √33-1/4 or x = -√33-1/4.
+
+Q.5: The diagonal of a rectangular field is 60 metres more than the shorter side. If the longer side is 30 metres more than the shorter side, find the sides of the field.
+Solutions: Let us say, the shorter side of the rectangle is x m.
+Then, larger side of the rectangle = (x + 30) m
+Diagonal of the rectangle = √[x2+(x+30)2]
+As given, the length of the diagonal is = x + 60 m
+Therefore,
+√[x2+(x+30)2]=x+60
+Squaring on both the sides, we get;
+⇒ x2 + (x + 30)2 = (x + 60)2
+⇒ x2 + x2 + 900 + 60x = x2 + 3600 + 120x
+⇒ x2 – 60x – 2700 = 0
+⇒ x2 – 90x + 30x – 2700 = 0
+⇒ x(x – 90) + 30(x -90)
+⇒ (x – 90)(x + 30) = 0
+⇒ x = 90, -30
+
+Q.6 : Solve the quadratic equation 2x2 – 7x + 3 = 0 by using quadratic formula.
+Solution: 2x2 – 7x + 3 = 0
+On comparing the given equation with ax2 + bx + c = 0, we get,
+a = 2, b = -7 and c = 3
+By using quadratic formula, we get,
+x = [-b±√(b2 – 4ac)]/2a
+⇒ x = [7±√(49 – 24)]/4
+⇒ x = [7±√25]/4
+⇒ x = [7±5]/4
+Therefore,
+⇒ x = 7+5/4 or x = 7-5/4
+⇒ x = 12/4 or 2/4
+∴ x = 3 or ½
+
+Q.7: Sum of the areas of two squares is 468 m2. If the difference of their perimeters is 24 m, find the sides of the two squares.
+Solutions: Let the sides of the two squares be x m and y m.
+Therefore, their perimeter will be 4x and 4y respectively
+And area of the squares will be x2 and y2 respectively.
+Given,
+
+4x – 4y = 24
+x – y = 6
+x = y + 6
+Also, x2 + y2 = 468
+⇒ (6 + y)2 + y2 = 468
+⇒ 36 + y2 + 12y + y2 = 468
+⇒ 2y2 + 12y – 432 = 0
+⇒ y2 + 6y – 216 = 0
+⇒ y2 + 18y – 12y – 216 = 0
+⇒ y(y +18) -12(y + 18) = 0
+⇒ (y + 18)(y – 12) = 0
+⇒ y = -18, 12
+As we know, the side of a square cannot be negative.
+Hence, the sides of the squares are 12 m and (12 + 6) m = 18
+
+Q.8: Find the values of k for each of the following quadratic equations, so that they have two equal roots.
+(i) 2x2 + kx + 3 = 0
+(ii) kx (x – 2) + 6 = 0
+Solutions:
+(i) 2x2 + kx + 3 = 0
+Comparing the given equation with ax2 + bx + c = 0, we get,
+a = 2, b = k and c = 3
+As we know, Discriminant = b2 – 4ac
+= (k)2 – 4(2) (3)
+= k2 – 24
+For equal roots, we know,
+Discriminant = 0
+k2 – 24 = 0
+k2 = 24
+k = ±√24 = ±2√6
+(ii) kx(x – 2) + 6 = 0
+or kx2 – 2kx + 6 = 0
+Comparing the given equation with ax2 + bx + c = 0, we get
+a = k, b = – 2k and c = 6
+We know, Discriminant = b2 – 4ac
+= ( – 2k)2 – 4 (k) (6)
+= 4k2 – 24k
+For equal roots, we know,
+b2 – 4ac = 0
+
+4k2 – 24k = 0
+
+4k (k – 6) = 0
+Either 4k = 0 or k = 6 = 0
+k = 0 or k = 6
+However, if k = 0, then the equation will not have the terms ‘x2‘ and ‘x‘.
+Therefore, if this equation has two equal roots, k should be 6 only.
+
+Q.9: Is it possible to design a rectangular park of perimeter 80 and area 400 sq.m.? If so find its length and breadth.
+Solution: Let the length and breadth of the park be L and B.
+Perimeter of the rectangular park = 2 (L + B) = 80
+So, L + B = 40
+Or, B = 40 – L
+Area of the rectangular park = L × B = L(40 – L) = 40L – L2 = 400
+L2 – 40 L + 400 = 0,
+which is a quadratic equation.
+Comparing the equation with ax2 + bx + c = 0, we get
+a = 1, b = -40, c = 400
+Since, Discriminant = b2 – 4ac
+=>(-40)2 – 4 × 400
+=> 1600 – 1600
+= 0
+Thus, b2 – 4ac = 0
+Therefore, this equation has equal real roots. Hence, the situation is possible.
+Root of the equation,
+L = –b/2a
+L = (40)/2(1) = 40/2 = 20
+Therefore, length of rectangular park, L = 20 m
+And breadth of the park, B = 40 – L = 40 – 20 = 20 m.
+
+Q.10: Find the discriminant of the equation 3×2– 2x +1/3= 0 and hence find the nature of its roots. Find them, if they are real.
+Solution : Here, a = 3, b = – 2 and c = 1/3
+Since, Discriminant = b2 – 4ac
+= (– 2)2 – 4 × 3 × 1/3
+= 4 – 4 = 0.
+Hence, the given quadratic equation has two equal real roots.
+The roots are -b/2a and -b/2a.
+
+2/6 and 2/6
+or
+
+1/3, 1/3
+Also check: 
+

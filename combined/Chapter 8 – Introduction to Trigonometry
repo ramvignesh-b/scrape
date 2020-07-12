@@ -1,0 +1,260 @@
+
+Question. 1 : In ∆ ABC, right-angled at B, AB = 24 cm, BC = 7 cm. Determine:
+(i) sin A, cos A
+(ii) sin C, cos C
+Solution:
+In a given triangle ABC, right-angled at B = ∠B = 90°
+Given: AB = 24 cm and BC = 7 cm
+According to the Pythagoras Theorem,
+In a right-angled triangle, the squares of the hypotenuse side are equal to the sum of the squares of the other two sides.
+By applying Pythagoras theorem, we get
+AC2=AB2+BC2
+AC2 (24)2+72
+AC2 =(576+49)
+AC2 = 625cm2
+Therefore, AC = 25 cm
+(i) We need to find Sin A and Cos A.
+As we know, sine of angle is equal to the ratio of length of the opposite side and hypotenuse side. Therefore,
+Sin A = BC/AC = 7/25
+Again, cosine of an angle is equal to the ratio of adjacent side and hypotenuse side. Therefore,
+cos A = AB/AC = 24/25
+(ii) We need to find Sin C and Cos C.
+Sin C = AB/AC = 24/25
+Cos C = BC/AC = 7/25
+
+Question 2: If Sin A = 3/4, Calculate cos A and tan A.
+Solution: Let us say, ABC is a right-angled triangle, right-angled at B.
+Sin A = 3/4
+As we know,
+Sin A = Opposite Side/Hypotenuse Side = 3/4
+Now, let BC be 3k and AC will be 4k.
+where k is the positive real number.
+As per the Pythagoras theorem, we know;
+Hypotenuse2 = Perpendicular2+Base2
+AC2 = AB2 + BC2
+Substitute the value of AC and BC in the above expression to get;
+(4k)2 = (AB)2 + (3k)2
+
+16k2 – 9k2 = AB2
+AB2 = 7k2
+Hence, AB = √7 k 
+Now, as per the question, we need to find the value of cos A and tan A.
+cos A = Adjacent Side/Hypotenuse side = AB/AC
+cos A = √7 k/4k = √7/4
+And,
+tan A = Opposite side/Adjacent side = BC/AB
+tan A = 3k/√7 k = 3/√7
+
+Question.3: If ∠A and ∠B are acute angles such that cos A = cos B, then show that ∠ A = ∠ B.
+Solution:
+Suppose a triangle ABC, right-angled at C.
+Now, we know the trigonometric ratios,
+cos A = AC/AB
+cos B = BC/AB
+Since, it is given,
+cos A = cos B
+AC/AB = BC/AB
+AC = BC
+As we know, the angles opposite to the equal sides are equal, by isosceles triangle theorem.
+Therefore, ∠A = ∠B
+
+Question 4: If 3 cot A = 4, check whether (1-tan2A)/(1+tan2A) = cos2 A – sin2 A or not.
+Solution:
+Let us consider a triangle ABC, right-angled at B.
+
+3 cot A = 4
+cot A = 4/3
+Since, tan A = 1/cot A
+tan A = 1/(4/3) = 3/4
+BC/AB = 3/4
+Let BC = 3k and AB = 4k
+By using Pythagoras theorem, we get;
+Hypotenuse2 = Perpendicular2 + Base2
+AC2 = AB2 + BC2
+AC2 = (4k)2 + (3k)2
+AC2 = 16k2 + 9k2
+AC = √25k2 = 5k
+sin A = Opposite side/Hypotenuse
+= BC/AC
+=3k/5k
+=3/5
+In the same way,
+cos A = Adjacent side/hypotenuse
+= AC/AC = 4k/5k
+= 4/5
+To check: (1-tan2A)/(1+tan2A) = cos2 A – sin2 A or not
+Let us take L.H.S. first;
+(1-tan2A)/(1+tan2A) = 1-(3/4)2/1+(3/4)2
+= [1-9/16]/[1+9/16] = 7/25
+R.H.S. = cos2 A – sin2 A = (4/5)2-(3/5)2
+= (16/25) – (9/25) = 7/25
+Since,
+L.H.S. = R.H.S.
+Hence, proved.
+
+Question 5: In triangle PQR, right-angled at Q, PR + QR = 25 cm and PQ = 5 cm. Determine the values of sin P, cos P and tan P.
+Solution: Given,
+In triangle PQR,
+PQ = 5cm
+PR + QR = 25cm
+Let us say, QR = x
+Then, PR = 25 – QR = 25 – x
+Using Pythagoras theorem:
+PR2 = PQ2 + QR2
+Now, substituting the value of PR, PQ and QR, we get;
+(25-x)2 = (5)2 + (x)2
+
+252+x2-50x = 25 + x2
+
+625 – 50 x = 25
+
+50 x = 600
+x = 12
+So, QR = 12
+PR = 25 – QR = 25 – 12 = 13
+Therefore,
+sin P = QR/PR = 12/13
+cos P = PQ/pR = 5/13
+tan P = QR/PQ = 12/5
+
+Question 6: Evaluate 2tan2 45 + cos2 30 – sin2 60.
+Solution: Since we know,
+tan 45 = 1
+cos 30 = 3/2
+sin 60 = 3/2
+Therefore, putting these values in the given equation:
+
+2(1)2 + (√3/2)2 – (√3/2)2
+
+2+0
+= 2
+
+Question 7: If tan (A + B) =√3 and tan (A – B) =1/√3,0° < A + B ≤ 90°; A > B, find A and B.
+Solution: Given,
+tan (A + B) = √3
+As we know, tan 60° = √3
+Thus, we can write;
+⇒ tan (A + B) = tan 60°
+⇒(A + B) = 60° …… (i)
+Now again given;
+tan (A – B) = 1/√3
+Since, tan 30° = 1/√3
+Thus, we can write;
+⇒ tan (A – B) = tan 30°
+⇒(A – B) = 30° … equation (ii)
+Now on adding the equation (i) and (ii), we get;
+A + B + A – B = 60° + 30°
+
+2A = 90°
+A= 45°
+Now, put the value of A in eq. (i) to find the value of B;
+
+45° + B = 60°
+B = 60° – 45°
+B = 15°
+Therefore A = 45° and B = 15°
+
+Question 8: Show that :
+(i) tan 48° tan 23° tan 42° tan 67° = 1
+(ii) cos 38° cos 52° – sin 38° sin 52° = 0
+Solution:
+(i) tan 48° tan 23° tan 42° tan 67°
+We can also write the above given tan functions in terms of cot functions, such as;
+tan 48° = tan (90° – 42°) = cot 42°
+tan 23° = tan (90° – 67°) = cot 67°
+Hence, substituting the values, we get
+= cot 42° cot 67° tan 42° tan 67°
+= (cot 42° tan 42°) (cot 67° tan 67°) = 1×1 = 1        [cot A.tan A = 1]
+(ii) cos 38° cos 52° – sin 38° sin 52°
+We can also write the above given cos functions in terms of sin functions, such as;
+cos 38° = cos (90° – 52°) = sin 52°
+cos 52°= cos (90°-38°) = sin 38°
+Hence, putting these values in the given equation, we get;
+sin 52° sin 38° – sin 38° sin 52° = 0
+Question 9: If tan 2A = cot (A – 18°), where 2A is an acute angle, find the value of A.
+Solution: Given,
+tan 2A = cot (A- 18°)
+As we know by trigonemetric identities,
+tan 2A = cot (90° – 2A)
+Substituting the above equation in the given equation, we get;
+⇒ cot (90° – 2A) = cot (A -18°)
+Therefore,
+⇒ 90° – 2A = A- 18°
+⇒ 108° = 3A
+A = 108° / 3
+Hence, the value of A = 36°
+Question 10:  If A, B and C are interior angles of a triangle ABC, then show that sin (B+C/2) = cos A/2.
+Solution:
+As we know, for any given triangle, the sum of all its interior angles equals to 180°
+Thus,
+A + B + C = 180° ….(1)
+Now we can write the above equation as;
+⇒ B + C = 180° – A
+Dividing by 2 both the sides;
+⇒ (B+C)/2 = (180°-A)/2
+⇒ (B+C)/2 = 90°-A/2
+Now, put sin function on both sides.
+⇒ sin (B+C)/2 = sin (90°-A/2)
+Since,
+sin (90°-A/2) = = cos A/2
+Therefore,
+sin (B+C)/2 = cos A/2
+Hence proved.
+Question 11: Prove the identities:
+(i) √[1+sinA/1-sinA] = sec A + tan A
+(ii) (1+tan2A/1+cot2A) = (1-tan A/1-cot A)2 = tan2A
+Solution:
+(i) Given:√[1+sinA/1-sinA] = sec A + tan A
+
+(ii) Given: (1+tan2A/1+cot2A) = (1-tan A/1-cot A)2 = tan2A
+
+
+
+
+(ii) cos 38° cos 52° – sin 38° sin 52°
+We can also write the above given cos functions in terms of sin functions, such as;
+cos 38° = cos (90° – 52°) = sin 52°
+cos 52°= cos (90°-38°) = sin 38°
+Hence, putting these values in the given equation, we get;
+sin 52° sin 38° – sin 38° sin 52° = 0
+
+Question 9: If tan 2A = cot (A – 18°), where 2A is an acute angle, find the value of A.
+Solution: Given,
+tan 2A = cot (A- 18°)
+As we know by trigonemetric identities,
+tan 2A = cot (90° – 2A)
+Substituting the above equation in the given equation, we get;
+⇒ cot (90° – 2A) = cot (A -18°)
+Therefore,
+⇒ 90° – 2A = A- 18°
+⇒ 108° = 3A
+A = 108° / 3
+Hence, the value of A = 36°
+
+Question 10:  If A, B and C are interior angles of a triangle ABC, then show that sin (B+C/2) = cos A/2.
+Solution:
+As we know, for any given triangle, the sum of all its interior angles equals to 180°
+Thus,
+A + B + C = 180° ….(1)
+Now we can write the above equation as;
+⇒ B + C = 180° – A
+Dividing by 2 both the sides;
+⇒ (B+C)/2 = (180°-A)/2
+⇒ (B+C)/2 = 90°-A/2
+Now, put sin function on both sides.
+⇒ sin (B+C)/2 = sin (90°-A/2)
+Since,
+sin (90°-A/2) = = cos A/2
+Therefore,
+sin (B+C)/2 = cos A/2
+Hence proved.
+
+Question 11: Prove the identities:
+(i) √[1+sinA/1-sinA] = sec A + tan A
+(ii) (1+tan2A/1+cot2A) = (1-tan A/1-cot A)2 = tan2A
+Solution:
+(i) Given:√[1+sinA/1-sinA] = sec A + tan A
+
+(ii) Given: (1+tan2A/1+cot2A) = (1-tan A/1-cot A)2 = tan2A
+
+
